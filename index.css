@@ -1,0 +1,21 @@
+.bg-container{
+    height: 100vh;
+    background-color: #f1f5f8;
+}
+.heading{
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 150px;
+}
+.counter{
+    font-size: 60px;
+    font-weight: 900;
+}
+.button{
+    border-radius: 5px;
+    border-width: 2px;
+    border-color: black;
+    padding: 5px;
+    margin: 10px;
+    font-weight: 400;
+}
